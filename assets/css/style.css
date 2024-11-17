@@ -1564,7 +1564,7 @@ a:focus {
 }
 
 #menu-mobile-menu li.menu-item-has-children-mobile > a::after {
-    content: '\e901';
+    content: '';
     position: absolute;
     font-family: 'icomoon';
     font-weight: 300;
